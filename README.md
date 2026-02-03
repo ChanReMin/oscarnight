@@ -51,7 +51,7 @@ The application uses an Excel file (`data.xlsx`) with the following columns:
 
 | Column Name | Type | Description |
 |-------------|------|-------------|
-| **STT** | Stribng | Sequence number, used for viewing only |
+| **STT** | String | Sequence number, used for viewing only |
 | **vnname** | String | Vietnamese name of the employee |
 | **englishname** | String | English name of the employee |
 | **avatar** | String | URL or file path to employee's avatar image |
